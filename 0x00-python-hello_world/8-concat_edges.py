@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-import sys
-sys.stderr.write("and that piece of art is useful - Dora Korpar, 2015-10-19\n")
-sys.exit(1)
+str = "Python is an interpreted, interactive, object-oriented programming\
+ language that combines remarkable power with very clear syntax"
+str = str[39:66] + str[106:112] + str[:6]
+print(str)
