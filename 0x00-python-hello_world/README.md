@@ -2,7 +2,9 @@
 
 0x00. Python - Hello, World
 
+
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2Fn93k6oc2wab71.png&tbnid=Cdmsb_qGCiRUFM&vet=12ahUKEwj5kKym3eOCAxX-vicCHftEBWkQMygaegUIARCtAQ..i&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fokkzb3%2Fhello_world_python_html_c_3840_x_2160%2F&docid=tVtJoH3aoNwg_M&w=3840&h=2160&q=Python%20-%20Hello%2C%20World&client=firefox-b-d&ved=2ahUKEwj5kKym3eOCAxX-vicCHftEBWkQMygaegUIARCtAQ
+
 
 
 Requirements
