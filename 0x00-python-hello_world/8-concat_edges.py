@@ -1,2 +1,8 @@
 #!/usr/bin/python3
-print("object-oriented programming with Python\n")
+a = "object"
+b = "-"
+c = "oriented"
+d = " "
+e = "with"
+f = "python"
+print(f"{a}{b}{c}{d}{e} {f}")
