@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/dlta/Alx-higher_level_programming/0x00-python-hello_world",
-      "program": "/home/dlta/Alx-higher_level_programming/0x00-python-hello_world/build/Debug/outDebug",
+      "cwd": "/home/dlta/Alx-higher_level_programming/0x01-python-if_else_loops_functions",
+      "program": "/home/dlta/Alx-higher_level_programming/0x01-python-if_else_loops_functions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
