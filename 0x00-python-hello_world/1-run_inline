@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 python3 -c "$PYCODE"
+=======
+#!/bin/sh
+python3 -c "$PYCODE"
+>>>>>>> origin/py
